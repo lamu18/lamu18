@@ -10,4 +10,4 @@
 
 🔧 Tools: I am proficient in using industry-standard tools and frameworks to streamline the development process and enhance efficiency. I believe in the power of collaboration and open source, and I'm always eager to learn and explore new technologies.
 
-🔗 Connect: 
+🔗 Connect: <i class="fa-brands fa-linkedin-in"></i>
